@@ -2,6 +2,8 @@ import React, { useState,useContext } from "react";
 import { NavLink, useNavigate } from "react-router-dom";
 import { AppContext } from "../context/AppContext";
 
+import { assets } from "../assets/assets";
+
 const Navbar = () => {
   const navigate = useNavigate();
   const [menuOpen, setMenuOpen] = useState(false);
@@ -27,7 +29,7 @@ const Navbar = () => {
       <div className="mx-auto flex max-w-7xl items-center justify-between px-5 py-4 lg:px-10">
         <img
         onClick={()=>navigate('/')}
-          src="./src/assets/pulsecare.png"
+          src={assets.pulsecare}
           alt="logo"
           className="w-44 cursor-pointer"
         />

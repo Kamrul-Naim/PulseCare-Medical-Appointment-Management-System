@@ -1,4 +1,5 @@
 import React from "react";
+import { assets } from "../assets/assets";
 
 const Header = () => {
   return (
@@ -12,7 +13,7 @@ const Header = () => {
         <div className="flex flex-col md:flex-row items-center gap-4 text-white text-sm">
           <img
             className="w-28"
-            src="./src/assets/group_profiles.png"
+            src={assets.group_profiles}
             alt="Group Profile"
           />
 
@@ -30,7 +31,7 @@ const Header = () => {
           Book Appointment
           <img
             className="w-3"
-            src="./src/assets/arrow_icon.svg"
+            src={assets.arrow_icon}
             alt="Arrow Icon"
           />
         </a>
@@ -40,7 +41,7 @@ const Header = () => {
       <div className="md:w-1/2 relative">
         <img
           className="w-full md:absolute md:bottom-0 h-auto"
-          src="./src/assets/header_img.png"
+          src={assets.header_img}
           alt="Header"
         />
       </div>
