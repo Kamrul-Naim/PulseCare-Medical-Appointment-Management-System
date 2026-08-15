@@ -1,5 +1,10 @@
 # PulseCare - Medical Appointment Management System
 
+## 🌐 Live Demo
+
+- **User Website:** https://your-frontend.vercel.app
+- **Admin Dashboard:** https://your-admin.vercel.app
+
 **PulseCare** is a full-stack medical appointment management system designed to simplify the process of finding doctors, booking appointments, and managing healthcare services online. The platform provides separate interfaces for **Patients, Doctors, and Admins**, with role-based authentication and functionality tailored to each user type.
 
 Built using the **MERN stack (MongoDB, Express.js, React.js, and Node.js)**, PulseCare provides an organized and user-friendly experience for patients and healthcare providers. Unlike systems that integrate online payment gateways, PulseCare focuses on the complete appointment management workflow without implementing payment functionality.
