@@ -3,7 +3,7 @@ import { assets } from "../assets/assets";
 
 const Header = () => {
   return (
-    <div className="mt-6 flex flex-col md:flex-row bg-blue-600 rounded-xl px-6 md:px-10 lg:px-16">
+    <div className="mt-20 flex flex-col md:flex-row bg-blue-600 rounded-xl px-6 md:px-10 lg:px-16">
       {/* Left Side */}
       <div className="md:w-1/2 flex flex-col items-start justify-center gap-6 py-8 md:py-10">
         <h1 className="text-3xl md:text-4xl lg:text-5xl text-white font-semibold leading-tight">
