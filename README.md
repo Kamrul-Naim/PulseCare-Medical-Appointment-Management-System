@@ -412,7 +412,7 @@ Payment gateway integration can be added as a future enhancement.
 
 Potential future improvements include:
 
-* Online payment integration using Stripe or Razorpay.
+* Online payment integration using Stripe or sslcommerz.
 * Email/SMS appointment notifications.
 * Doctor and patient reviews.
 * Prescription management.
