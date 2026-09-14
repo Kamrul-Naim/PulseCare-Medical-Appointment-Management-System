@@ -22,7 +22,8 @@ app.use(cors({
         'http://localhost:5174',
         'https://pulse-care-medical-appointment-mana.vercel.app',
         'https://pulse-care-medical-appointment-mana-pi.vercel.app',
-        'https://pulsecare4u.netlify.app'
+        'https://pulsecare4u.netlify.app',
+        'https://pulsecareadmin.netlify.app'
     ],
     credentials: true
 }))
