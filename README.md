@@ -2,8 +2,8 @@
 
 ## 🌐 Live Demo
 
-- **User Website:** https://pulse-care-medical-appointment-mana.vercel.app
-- **Admin Dashboard:** https://pulse-care-medical-appointment-mana-pi.vercel.app
+- **User Website:** https://pulsecare4u.netlify.app
+- **Admin Dashboard:** https://pulsecareadmin.netlify.app
 
 **PulseCare** is a full-stack medical appointment management system designed to simplify the process of finding doctors, booking appointments, and managing healthcare services online. The platform provides separate interfaces for **Patients, Doctors, and Admins**, with role-based authentication and functionality tailored to each user type.
 
